@@ -47,7 +47,7 @@ __NOTE__: You do not need to fork this repo to install/use the liberator tool.
 Run the following (you'll be prompted for you github username and password):
 
   ```sh
-  npm install -g git+https://github.com/hackreactor/liberator.git
+  npm install -g git+https://github.com/hackreactor-labs/hackreactor.git
   ```
 
 ## Configuration
